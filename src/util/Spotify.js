@@ -1,5 +1,5 @@
 const clientId = 'removed for privacy';
-const redirectUri = 'http://deranged-chess.surge.sh/';
+const redirectUri = 'surge url';
 let accessToken;
 
 export const Spotify = {
